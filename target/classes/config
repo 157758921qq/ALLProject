@@ -1,0 +1,7 @@
+initTankCount=7
+
+#tank fire strategy
+tankFireStrategy=FourDirFireStrategy
+
+#collider
+colliders=BulletTankCollider,BulletWallCollider,TankWallCollider,TankTankCollider
